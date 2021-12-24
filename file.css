@@ -1,0 +1,36 @@
+.osnova{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: white;
+    border: 2px solid #66c05d;
+    
+
+}
+.osnova2{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: white;
+    border: 2px solid #66c05d;
+    
+
+}
+.osnova3{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: white;
+    border: 2px solid #66c05d;
+    
+
+}
+.head h1{
+    color:red;
+}
+.cel{
+    display: flex;
+}
+.head{
+    background-image: url("img/fon.jpg");
+    border: 2px solid greenyellow;
+    /* display:flex; */
+    
+}
